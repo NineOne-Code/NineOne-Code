@@ -46,4 +46,4 @@
 
 ## 🏆Github Stats
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NineOne-Code&theme=radical" alt="Nine's GitHub Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=NineOne-Code&theme=radical" alt="Nine's GitHub Stats" />
