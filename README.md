@@ -5,7 +5,7 @@
 ### (and right now) => {
 
 - A Student at the Informatics Engineering, University of Muhammadiyah Jember📚,
-- Exploring Flutter and Javascript🧠, and
+- Exploring Front End Dev(Mobile and Web)🧠, and
 - and love coffee🍺
   <br/>
 
@@ -13,6 +13,7 @@
 
 ### console.group([ '🛠 Technologies and Tools' ])
 
+<p>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -27,8 +28,8 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<br/>
-<br/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ### console.groupEnd()
 
@@ -45,8 +46,4 @@
 
 ## 🏆Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NineOne-Code&theme=radical" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=NineOne-Code&theme=radical" alt="Nine's GitHub Stats" />
-
-<!-- <br/>
-<br/>
-<a href="https://github.com/NineOne-Code/server-cv-fajar"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NineOne-Code&repo=server-cv-fajar&theme=dark" /></a> <a href="https://github.com/NineOne-Code/ci4-resto-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NineOne-Code&repo=ci4-resto-app&theme=dark" /></a> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NineOne-Code&theme=radical" alt="Nine's GitHub Stats" />
