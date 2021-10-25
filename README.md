@@ -1,11 +1,11 @@
 ﻿### console.log(' Hello, everyone! [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">](https://github.com/NineOne-Code/NineOne-Code) I'm [<img src="https://img.shields.io/badge/Ibrahim-323330?style=for-the-badge" />](https://www.instagram.com/ibrahim.attamimi) a.k.a [<img src="https://img.shields.io/badge/NineOne-20232A?style=for-the-badge" />](https://www.instagram.com/nineone.code) 🕶  from Indonesia <img src="https://www.flaticon.com/svg/static/icons/svg/323/323372.svg" width="13"/> ')
 
-## console.warn(" I'm a Student👨‍🎓, Front-End Developer💻 and Coffee Lovers🤣! ")
+## console.warn(" I'm a Student👨‍🎓, Flutter Developer💻 and Coffee Lovers🤣! ")
 
 ### (and right now) => {
 
 - A Student at the Informatics Engineering, University of Muhammadiyah Jember📚,
-- Exploring Front End Dev(Mobile and Web)🧠, and
+- Exploring Flutter Dev🧠, and
 - and love coffee🍺
   <br/>
 
