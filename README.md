@@ -40,8 +40,8 @@
 - [Activity Lifecycle Class Component and State - React Native Dasar](https://www.youtube.com/watch?v=OFCkCXX-rXY)
 - [Activities and Intents - React Native Dasar](https://www.youtube.com/watch?v=at3T1iq9Fmo)
 - [Implicit Intents - React Native Dasar](https://www.youtube.com/watch?v=FWV5zkIn1Kk)
-- [Alajabar Linier - Ruang Hasil Kali Dalam](https://www.youtube.com/watch?v=2C9l-tEg04A)
 - [Scrolling Text &amp; Add a Launcher Icon to Your App - React Native Dasar](https://www.youtube.com/watch?v=Q0axRUaoyPY)
+- [Membuat Aplikasi Hello Toast   React Native Dasar](https://www.youtube.com/watch?v=0DA7XuLmJFI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ## 🏆Github Stats
